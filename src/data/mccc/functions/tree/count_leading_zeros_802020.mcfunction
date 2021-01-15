@@ -1,0 +1,1 @@
+scoreboard players add $count mccc 1

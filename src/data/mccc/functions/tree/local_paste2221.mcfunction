@@ -1,0 +1,3 @@
+execute if score $search1 mccc matches ..1027071 run function mccc:tree/local_paste22210
+execute if score $search1 mccc matches 1027072..1031167 run function mccc:tree/local_paste22211
+execute if score $search1 mccc matches 1031168.. run function mccc:tree/local_paste22212

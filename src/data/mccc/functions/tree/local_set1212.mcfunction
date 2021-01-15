@@ -1,0 +1,1 @@
+scoreboard players operation $l40 mccc = $value mccc

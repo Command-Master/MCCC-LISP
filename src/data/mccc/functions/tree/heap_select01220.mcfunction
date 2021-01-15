@@ -1,0 +1,3 @@
+execute if score $search1 mccc matches ..216 run function mccc:tree/heap_select012200
+execute if score $search1 mccc matches 217..217 run function mccc:tree/heap_select012201
+execute if score $search1 mccc matches 218.. run function mccc:tree/heap_select012202

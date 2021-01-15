@@ -1,0 +1,3 @@
+execute if score $returned mccc matches 0 if score $broken mccc matches 0 run function mccc:temp_108
+execute if score $returned mccc matches 0 if score $broken mccc matches 0 run function mccc:temp_109
+function mccc:temp_106

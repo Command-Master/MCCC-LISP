@@ -1,0 +1,1 @@
+scoreboard players set $p2 mccc 134217728

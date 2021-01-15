@@ -1,0 +1,3 @@
+execute if score $r0 mccc matches ..80 run function mccc:tree/mark_used00200
+execute if score $r0 mccc matches 81..84 run function mccc:tree/mark_used00201
+execute if score $r0 mccc matches 85.. run function mccc:tree/mark_used00202

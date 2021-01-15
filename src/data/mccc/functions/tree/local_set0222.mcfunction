@@ -1,0 +1,1 @@
+scoreboard players operation $l21 mccc = $value mccc

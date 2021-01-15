@@ -1,0 +1,1 @@
+data modify storage mccc:main lstack[36] set from storage mccc:main templ
